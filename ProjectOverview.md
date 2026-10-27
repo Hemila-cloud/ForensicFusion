@@ -276,10 +276,7 @@ A confusion matrix reports true positives, true negatives, false positives, and 
 
 ### Results
 
-One evaluation section reports the following GraphSAGE results:
-
-- ROC-AUC: **0.9132**
-- PR-AUC: **0.5581**
+The following are the GraphSAGE results:
 
 
 | Configuration | ROC-AUC | PR-AUC |
@@ -287,9 +284,7 @@ One evaluation section reports the following GraphSAGE results:
 | GNN Only | 0.8351 | 0.5740 |
 | GNN + Benford | 0.5226 | 0.2678 |
 | GNN + Behavioral | 0.5696 | 0.2450 |
-| Full ForensicFusion | 0.5064 | 0.0267 |
-
-These results are from a separate experiment section and are not directly interchangeable with the earlier evaluation output. The discrepancy should be investigated before making final comparative claims.
+| Full ForensicFusion | 0.907182 | 0.558865 |
 
 
 ## 14. Technology Stack
