@@ -374,10 +374,5 @@ The project has developed a large feature-engineered transaction dataset, prepar
 
 The current experiments highlight an important challenge: integrating complementary techniques does not automatically improve fraud detection. 
 Overall, ForensicFusion provides a foundation for exploring explainable, graph-based financial forensic analysis.
-## 18. Responsible Use
-
-ForensicFusion is an academic and experimental fraud-detection project. Model outputs, statistical anomalies, and network visualizations should be treated as indicators for further investigation rather than definitive evidence of wrongdoing.
-
-Any real-world use should include appropriate data protection, independent validation, human review, and careful assessment of false positives and false negatives.
 
 
