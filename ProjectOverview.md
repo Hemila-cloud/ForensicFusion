@@ -50,13 +50,7 @@ The data includes transaction details, account identifiers, account balances, fr
 
 The final dataset also contains engineered features for balance changes, balance inconsistencies, transaction behavior, Benford’s Law scores and normalized forensic scores.
 
-### Class imbalance
 
-The dataset contains:
-
-- Genuine transactions: **6,354,407**
-- Fraudulent transactions: **8,213**
-- Fraud proportion: approximately **0.1291%**
 
 Because genuine transactions greatly outnumber fraudulent ones, accuracy alone is insufficient for evaluating the system. Precision, recall, F1-score, ROC-AUC, PR-AUC, and the confusion matrix are important evaluation measures.
 
