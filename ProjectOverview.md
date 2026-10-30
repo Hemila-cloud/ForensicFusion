@@ -43,7 +43,7 @@ The main objectives are:
 
 ## 4. Dataset Description
 
-The project uses a large financial transaction dataset containing **6,362,620 transactions and 30 columns** in the final feature-engineered dataset.
+The project uses a large financial transaction dataset containing **1,048,576 transactions and 10 columns** in the final feature-engineered dataset.
 
 The data includes transaction details, account identifiers, account balances, fraud labels, and engineered statistical and behavioral features.
 
